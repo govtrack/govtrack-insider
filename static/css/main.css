@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo:400,700);
+
+a:link, a:visited, a:hover, a:active {
+	color: #cb4b16;
+}
+
+header img {
+	border-bottom: 1px solid black;
+}
+header .deck {
+	padding: .75em 22px;
+	font-family: 'Arvo', serif;
+	font-size: 20px;
+	border-bottom: 1px solid black;
+}
+
+h2 {
+	font-family: 'Arvo', serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: 'Arvo', serif;
+	font-size: 16px;
+	text-decoration: underline;
+}
